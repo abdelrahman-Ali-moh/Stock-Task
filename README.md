@@ -1,7 +1,3 @@
-# CFH
-
-
-
 ## Introduction:
 
 The EGX 30 Index is a key indicator of the performance of the Egyptian stock market, comprising the top 30 companies listed on the Egyptian Exchange. Predicting its movements accurately can provide valuable insights for investors and traders. LSTM neural networks have shown promise in predicting stock prices by learning patterns from historical data. This project aims to leverage LSTM to predict EGX 30 stock prices and analyze market behavior.
